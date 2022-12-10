@@ -13,6 +13,7 @@ A compiliation of completed projects on freeCodeCamp.
 </details>
 
 ## [Responsive Web Design](https://github.com/TrooperZ/freecodecamp-projects/tree/main/Responsive%20Web%20Design)
+**View the [course](https://www.freecodecamp.org/learn/2022/responsive-web-design/)**
 
 ### [Cat Photo App](https://github.com/TrooperZ/freecodecamp-projects/tree/main/Responsive%20Web%20Design/catphotoapp)
 
